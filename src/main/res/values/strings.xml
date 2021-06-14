@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="identify_the_car_make">Identify the Car Make</string>
+    <string name="hints">Hints</string>
+    <string name="identify_the_car_image">Identify the Car Image</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="identify">Identify</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="submit_advanced">Submit</string>
+    <string name="enter_car_name_1">Enter Car Name</string>
+    <string name="enter_car_name_2">Enter Car Name</string>
+    <string name="guess_the_car">Guess the Car</string>
+    <string name="timer">timer</string>
+    <string name="enter_correct_answer">Enter Correct Answer</string>
+    <string name="enter_car_name3">Enter Car Name</string>
+
+    <string-array name="cars">
+        <item>Audi</item>
+        <item>Benz</item>
+        <item>BMW</item>
+        <item>Lamborghini</item>
+        <item>Nissan</item>
+        <item>Axio</item>
+        <item>Vagannar</item>
+        <item>Allion</item>
+        <item>Rangerover</item>
+        <item>Vitz</item>
+
+        <item>Vessel</item>
+        <item>Yaris</item>
+        <item>Rush</item>
+        <item>Corolla</item>
+        <item>CHR</item>
+        <item>Civic</item>
+        <item>CRZ</item>
+        <item>Ferrari</item>
+        <item>Bugatti</item>
+        <item>Pagani</item>
+
+
+        <item>Agera</item>
+        <item>Jesko</item>
+        <item>Zenvo</item>
+        <item>Hennessy</item>
+        <item>Peel</item>
+        <item>Porsche</item>
+        <item>Mclaren</item>
+        <item>Gemera</item>
+        <item>Camaro</item>
+        <item>Ford</item>
+
+    </string-array>
+
+    <string-array name="carsName">
+        <item>audi</item>
+        <item>benz</item>
+        <item>bmw</item>
+        <item>lamborghini</item>
+        <item>nissan</item>
+        <item>axio</item>
+        <item>vagannar</item>
+        <item>allion</item>
+        <item>rangerover</item>
+        <item>vitz</item>
+
+        <item>vessel</item>
+        <item>yaris</item>
+        <item>rush</item>
+        <item>corolla</item>
+        <item>chr</item>
+        <item>civic</item>
+        <item>crz</item>
+        <item>ferrari</item>
+        <item>bugatti</item>
+        <item>pagani</item>
+
+        <item>agera</item>
+        <item>jesko</item>
+        <item>zenvo</item>
+        <item>hennessy</item>
+        <item>peel</item>
+        <item>porsche</item>
+        <item>mclaren</item>
+        <item>gemera</item>
+        <item>camaro</item>
+        <item>ford</item>
+    </string-array>
+
+</resources>
